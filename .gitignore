@@ -1,0 +1,19 @@
+# CCS Theia / TI MSPM0 编译产物
+Debug/
+Release/
+*.out
+*.map
+*.o
+*.d
+
+# clangd 索引缓存
+.clangd/
+
+# IDE 工作区个人配置
+.theia/
+*.theia-workspace
+.vscode/
+
+# 系统文件
+Thumbs.db
+.DS_Store

@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "01_LED",
+			"path": "."
+		},
+		{
+			"name": "02_CLOCK_GPIO",
+			"path": "../02_CLOCK_GPIO"
+		},
+		{
+			"name": "03_Debug_Block",
+			"path": "../03_Debug_Block"
+		},
+		{
+			"name": "my_lib",
+			"path": "E:/电赛学习/mpu姿态解算/2.1 源码 标准库/2.1(software i2c)/my_lib"
+		}
+	],
+	"settings": {}
+}
